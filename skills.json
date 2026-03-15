@@ -17,15 +17,15 @@
     },
     {
         "name": "Fusion 360",
-        "icon": "./assets/images/fusion360.JPEG"
+        "icon": "assets/images/fusion360.JPEG"
     },
     {
         "name": "Proteus",
-        "icon": "./assets/images/Proteus.JPEG"
+        "icon": "assets/images/Proteus.JPEG"
     },
     {
         "name": "EasyEDA",
-        "icon": "./assets/images/EasyEDA.JPEG"
+        "icon": "assets/images/EasyEDA.JPEG"
     },
     {
         "name": "Ultimaker Cura",
@@ -33,7 +33,7 @@
     },
     {
         "name": "Wokwi",
-        "icon": "./assets/images/Wokwi.png"
+        "icon": "assets/images/Wokwi.png"
     },
     {
         "name": "Google Workspace",
