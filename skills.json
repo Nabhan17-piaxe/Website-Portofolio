@@ -21,11 +21,11 @@
     },
     {
         "name": "Proteus",
-        "icon": "https://img.icons8.com/color/48/000000/microchip.png"
+        "icon": "assets/images/Proteus.png"
     },
     {
         "name": "EasyEDA",
-        "icon": "https://img.icons8.com/color/48/000000/printed-circuit-board.png"
+        "icon": "assets/images/EasyEDA.png"
     },
     {
         "name": "Ultimaker Cura",
