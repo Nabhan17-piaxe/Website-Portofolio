@@ -1089,3 +1089,39 @@ header .navbar ul li a:hover {
     background-color: transparent !important; /* Menghapus bar putih jelek */
     padding: 10px; /* Sedikit jarak agar foto dokumen tidak terlalu mepet tepi */
 }
+/* ================================================== */
+/* PERBAIKAN KHUSUS KOTAK SKILLS DI HP (WAJIB DI PALING BAWAH) */
+/* ================================================== */
+@media screen and (max-width: 768px) {
+    /* Memaksa wadah utama agar tidak melebihi lebar layar HP */
+    .skills .container {
+        width: 100% !important;
+        padding: 10px !important;
+        margin: 0 !important;
+        box-sizing: border-box !important;
+    }
+    
+    /* Memaksa kotak-kotak skill jadi 2 kolom menyamping */
+    #skillsContainer {
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr) !important; /* Kunci utamanya di sini: 2 kolom! */
+        gap: 15px !important;
+        padding: 10px !important;
+        width: 100% !important;
+    }
+
+    /* Menyesuaikan ukuran kotak dan teks agar tidak sumpek di HP */
+    .skills .container .bar {
+        width: 100% !important;
+        padding: 15px 5px !important;
+        margin: 0 !important;
+    }
+    .skills .container .bar .info img {
+        width: 45px !important;
+        height: 45px !important;
+    }
+    .skills .container .bar .info span {
+        font-size: 1.3rem !important;
+        text-align: center !important;
+    }
+}
