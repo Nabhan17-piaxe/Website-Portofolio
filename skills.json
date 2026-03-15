@@ -17,15 +17,15 @@
     },
     {
         "name": "Fusion 360",
-        "icon": "assets/images/fusion360.JPEG"
+        "icon": "assets/images/fusion360.jpeg"
     },
     {
         "name": "Proteus",
-        "icon": "assets/images/Proteus.JPEG"
+        "icon": "assets/images/Proteus.jpeg"
     },
     {
         "name": "EasyEDA",
-        "icon": "assets/images/EasyEDA.JPEG"
+        "icon": "assets/images/EasyEDA.jpeg"
     },
     {
         "name": "Ultimaker Cura",
