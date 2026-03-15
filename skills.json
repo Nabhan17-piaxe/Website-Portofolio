@@ -17,15 +17,15 @@
     },
     {
         "name": "Fusion 360",
-        "icon": "assets/images/fusion360.JPEG"
+        "icon": "https://img.icons8.com/color/48/000000/autodesk.png"
     },
     {
         "name": "Proteus",
-        "icon": "assets/images/Proteus.JPEG"
+        "icon": "https://img.icons8.com/color/48/000000/microchip.png"
     },
     {
         "name": "EasyEDA",
-        "icon": "assets/images/EasyEDA.JPEG"
+        "icon": "https://img.icons8.com/color/48/000000/printed-circuit-board.png"
     },
     {
         "name": "Ultimaker Cura",
